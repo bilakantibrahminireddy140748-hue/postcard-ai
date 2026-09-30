@@ -1,0 +1,6 @@
+{
+  "name": "PostCraft AI",
+  "description": "Gen-Z Social Media Content Studio for Instagram posts, reels, and videos with a playful sticker-book aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
